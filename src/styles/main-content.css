@@ -270,7 +270,7 @@
     border-radius: 50%;
 }
 
-.card-text{
+.card-text {
     display: flex;
     flex-direction: column;
     color: #fff;
